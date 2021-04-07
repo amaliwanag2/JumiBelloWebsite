@@ -21,11 +21,11 @@ function App() {
           width: "100vw",
         }}
       >
-        <img src={logo} />
-        <img src={mainPhoto} style={{ width: "100vw" }} />
+        <img src={logo} alt="logo" />
+        <img src={mainPhoto} style={{ width: "100vw" }} alt="cover" />
       </div>
       <div className="About">
-        <img src={jumi} className="Halfpage" />
+        <img src={jumi} className="Halfpage" alt="auth" />
         <div className="Halfpage">
           <h1>about</h1>
           <p>
