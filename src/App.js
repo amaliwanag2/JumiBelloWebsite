@@ -1,4 +1,4 @@
-import logo from "./Logo.svg";
+import logo from "./logo.svg";
 import mainPhoto from "./mainPhoto.png";
 import jumi from "./jumi.png";
 import "./App.css";
