@@ -1,3 +1,11 @@
+body {
+  font-family: "Libre Baskerville", serif;
+}
+div::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 0;
+  height: 0;
+}
 .About {
   display: flex;
   flex-direction: row;
