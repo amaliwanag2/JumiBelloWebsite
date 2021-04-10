@@ -18,7 +18,7 @@ function App() {
       style={{
         display: "flex",
         flexDirection: "column",
-        backgroundColor: "#E5E5E5",
+        backgroundColor: "#FFFEF9",
         overflowX: isMobile ? "hidden" : undefined,
       }}
     >
@@ -66,7 +66,7 @@ function App() {
           alignItems: "center",
           height: "100vh",
           width: "100vw",
-          backgroundColor: "#E5E5E5",
+          backgroundColor: "#FFFEF9",
           marginTop: "-50px",
         }}
       >
