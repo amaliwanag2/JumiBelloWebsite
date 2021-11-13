@@ -58,7 +58,7 @@ function App() {
         </div>
       </div>
       {/*book section */}
-      <div
+      {/* <div
         style={{
           position: "relative",
           display: "flex",
@@ -235,7 +235,7 @@ function App() {
           I wake up and fight to show the marginalized that our stories matter.
           This world is ours too.
         </p>
-      </div>
+      </div> */}
       <div className="About">
         <div
           style={{
