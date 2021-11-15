@@ -1,18 +1,18 @@
-import React, { useState } from "react";
+import React from "react";
 import logo from "./logo.svg";
 import mainPhoto from "./mainPhoto.png";
 import jumi from "./jumi.png";
-import readMe from "./readMe.svg";
-import { Excerpt1 } from "./excerpt1";
-import flower from "./flower.png";
+// import readMe from "./readMe.svg";
+// import { Excerpt1 } from "./excerpt1";
+// import flower from "./flower.png";
 import footer from "./footer.svg";
 import scroll from "./scroll.svg";
 import "./App.css";
 import { isMobile } from "react-device-detect";
 import { TextField } from "@material-ui/core";
 function App() {
-  const [readMode, setReadMode] = useState(false);
-  const readMeOnClick = () => setReadMode((prevState) => !prevState);
+  // const [readMode, setReadMode] = useState(false);
+  // const readMeOnClick = () => setReadMode((prevState) => !prevState);
   return (
     <div
       style={{
